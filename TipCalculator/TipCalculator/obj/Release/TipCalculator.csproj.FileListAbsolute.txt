@@ -1,0 +1,10 @@
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\bin\Release\TipCalculator.exe.config
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\bin\Release\TipCalculator.exe
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\bin\Release\TipCalculator.pdb
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\obj\Release\TipCalculator.csprojAssemblyReference.cache
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\obj\Release\TipCalculator.Form1.resources
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\obj\Release\TipCalculator.Properties.Resources.resources
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\obj\Release\TipCalculator.csproj.GenerateResource.cache
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\obj\Release\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\obj\Release\TipCalculator.exe
+C:\Users\cleve\Source\Repos\Lab6\TipCalculator\TipCalculator\obj\Release\TipCalculator.pdb
